@@ -75,6 +75,12 @@ html
  width: 2rem;
 right: 7%;
 }
+.li-1 a
+{
+text-decoration: none;
+color: white;
+font-family: 'Poppins', sans-serif;
+}
 .li-1
 {
   color: white;
